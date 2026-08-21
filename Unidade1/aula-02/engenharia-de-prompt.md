@@ -1,8 +1,8 @@
 # Aula 02 — Engenharia de Prompt
 
 ## 1. Identificação
-- Turma:
-- Grupo:
+- Turma: Noturno
+- Grupo: JMS
 - Data: 20/08/26
 - Integrantes:
 
@@ -12,9 +12,9 @@
 
   Samuel Rodrigues Melo - 32765185
 ## 2. Problema escolhido
-Resumo de documentação
+Resumo de documentação de frameworks/linguagens
 ## 3. Objetivo
-Facilitar o processo de leitura de documentação
+Facilitar o aprendizado de frameworks/linguagens
 ## 4. Prompt inicial
 ```text
 Cite os principais pontos sobre a criação de classes em Java
@@ -245,3 +245,41 @@ Esses conceitos formam a base da **Programação Orientada a Objetos (POO)** em 
 [8]: https://docs.oracle.com/javase/tutorial/java/IandI/summaryinherit.html?utm_source=chatgpt.com "Summary of Inheritance (The Java™ Tutorials > Learning the Java Language > Interfaces and Inheritance)"
 
 ## 9. Técnicas Utilizadas
+
+[X] Role Prompting
+
+[ ] Few-Shot Prompting
+
+[X] Contexto
+
+[ ] Restrições
+
+[ ] Formato de saída
+
+[ ] Prompt em etapas
+
+[ ] Refinamento iterativo
+
+[ ] Outra
+
+## 10. Comparação
+
+O prompt refinado fez com que a IA fosse mais específica, pois forneceu um papel e um contexto, enquanto que o prompt simples trouxe uma resposta mais resumida.
+
+## 11. Comparação
+
+Verificamos o resultado por meio dos links fornecidos pela própria IA (documentação ORACLE)
+
+## 12. Ética e responsabilidade
+
+Se o resultado não for validado adequadamente, o processo de aprendizado do aluno pode ser prejudicado, consequentemente levando ao desenvolvimento de aplicações ineficientes/inseguras
+
+## 13. Take Away
+
+Engenharia de prompt é uma técnica que, se usada e validada adequadamente, pode acelerar e melhorar milhares de processos
+
+## 14. Link
+
+[Link][9]
+
+[9]: https://github.com/Lightjv23/Tendencias_CienciaComputacao_2026_2/blob/main/Unidade1/aula-02/engenharia-de-prompt.md
