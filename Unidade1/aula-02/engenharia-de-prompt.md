@@ -50,6 +50,7 @@ O que faltou?
 -Não houve uma explicação mais aprofundada sobre os pontos
 
 O que precisa ser validado?
+
 -O trecho exato da documentação que a IA se baseou para a explicação
 
 ## 7. Prompt refinado
