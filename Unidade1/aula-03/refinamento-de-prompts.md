@@ -1,16 +1,23 @@
 # Atividade - Refinamento de Prompts
 
 ## Identificação
-- Nome:
-- Turma:
-- Data:
-- Ferramenta de IA utilizada:
+- Turma: Noturno
+
+- Data: 20/08/26
+
+- Integrantes:
+
+     João Vítor Miranda de Moraes - 34070681
+
+     Márcio Henrique Pereira Vieira - 33078114
+
+     Samuel Rodrigues Melo - 32765185
+
+- Ferramenta de IA utilizada: ChatGPT
 
 ---
 
-# Refinamento de Prompts: Algoritmo A*
-
-## Problema escolhido
+## Refinamento de Prompts: Algoritmo A*
 
 ### Contexto
 
