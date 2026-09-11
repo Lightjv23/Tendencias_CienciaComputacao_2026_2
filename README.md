@@ -6,7 +6,6 @@ Este repositório reúne materiais da disciplina "Tendências em Ciência da Com
 
 ## Quem (Who)
 - Público-alvo: estudantes de graduação em Ciência da Computação e áreas afins, professores e pesquisadores interessados em tendências e aplicações práticas de IA e engenharia de prompts.
-- Responsável: Prof.ª Kadidja (contato: kadidja.oliveira@udf.edu.br) — ver o plano de aulas anexo.
 
 ## O quê (What)
 - Curso sobre tendências atuais em Ciência da Computação com foco prático em Engenharia de Prompt, Inteligência Artificial aplicada, ética, ferramentas e projetos práticos.
