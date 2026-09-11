@@ -1,6 +1,5 @@
 # Tendências em Ciência da Computação — 2026/2
 
-Este repositório reúne materiais da disciplina "Tendências em Ciência da Computação" (ênfase em Engenharia de Prompt e IA) — plano de aulas e recursos de apoio — com base no plano de aulas da Professora Kadidja. O README abaixo foi elaborado usando o método dos 5 WH (Quem / O quê / Quando / Onde / Por quê) para facilitar a compreensão rápida dos objetivos e da organização da disciplina.
 
 ---
 
@@ -31,13 +30,6 @@ Este repositório reúne materiais da disciplina "Tendências em Ciência da Com
 - Avaliar riscos e implicações éticas do uso de IA.
 - Praticar com ferramentas e plataformas de IA por meio de oficinas e estudos de caso.
 - Desenvolver e apresentar um mini-projeto final aplicando os conhecimentos da disciplina.
-
-## Organização do repositório
-- PlanodeAulas_Tendencias_EngPrompt_IA_Professora Kadidja_2026_2_5f.pdf — Plano de Aulas (fonte dos objetivos).
-- Unidade1/ (material da Unidade 1: slides, exercícios, notas)
-- (adicione aqui outras pastas: Unidade2/, Recursos/, Projetos/)
-
-Link direto ao plano de aulas: ./PlanodeAulas_Tendencias_EngPrompt_IA_Professora Kadidja_2026_2_5f.pdf
 
 ## Avaliação
 - Participação nas oficinas e discussões
