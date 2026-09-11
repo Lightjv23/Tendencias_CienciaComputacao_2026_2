@@ -49,10 +49,3 @@ Link direto ao plano de aulas: ./PlanodeAulas_Tendencias_EngPrompt_IA_Professora
 - Materiais fornecidos em aula e no repositório
 - Leituras recomendadas e links a ferramentas serão adicionados nas pastas de cada unidade
 
-## Contato e contribuições
-- Para dúvidas sobre conteúdo: kadidja.oliveira@udf.edu.br
-- Contribuições ao repositório: abra uma issue descrevendo o material a ser adicionado ou envie um pull request com a pasta/arquivo seguindo a estrutura do repositório.
-
----
-
-Observação: este README foi criado com base no Plano de Aulas disponível no repositório. Posso ajustar o texto para incluir cronograma detalhado, bibliografia ou objetivos por unidade se você quiser — quer que eu acrescente as metas específicas de cada unidade extraídas do PDF?
