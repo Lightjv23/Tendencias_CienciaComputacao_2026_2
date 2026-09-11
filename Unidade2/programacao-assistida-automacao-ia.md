@@ -1,6 +1,12 @@
 # Programação Assistida e Automação com IA
 ## Identificação
-- Nome:
+- Nomes:
+  
+  João Vítor Miranda de Moraes - 34070681
+
+  Márcio Henrique Pereira Vieira - 33078114
+
+  Samuel Rodrigues Melo - 32765185
 - Turma: Noturno
 - Data: 11/09/2026
 - Ferramenta de IA utilizada: Claude
