@@ -1,0 +1,121 @@
+[
+  {
+    "arquivo": "Atividades Complementares - Envio de Comprovantes App Duda.pdf",
+    "paginas": 9,
+    "caracteres_extraidos": 2111,
+    "paginas_ocr": [
+      2,
+      3,
+      4,
+      8,
+      9
+    ],
+    "texto_extraido": "textos/Atividades_Complementares_-_Envio_de_Comprovantes_App_Duda.pdf.txt"
+  },
+  {
+    "arquivo": "Atividades Complementares - Envio de Comprovantes Portal do Aluno.pdf",
+    "paginas": 9,
+    "caracteres_extraidos": 2111,
+    "paginas_ocr": [
+      2,
+      3,
+      4,
+      8,
+      9
+    ],
+    "texto_extraido": "textos/Atividades_Complementares_-_Envio_de_Comprovantes_Portal_do_Aluno.pdf.txt"
+  },
+  {
+    "arquivo": "Código Disciplinar.pdf",
+    "paginas": 21,
+    "caracteres_extraidos": 62548,
+    "paginas_ocr": [],
+    "texto_extraido": "textos/Código_Disciplinar.pdf.txt"
+  },
+  {
+    "arquivo": "Calendário Acadêmico - 2026.pdf",
+    "paginas": 2,
+    "caracteres_extraidos": 4532,
+    "paginas_ocr": [
+      1
+    ],
+    "texto_extraido": "textos/Calendário_Acadêmico_-_2026.pdf.txt"
+  },
+  {
+    "arquivo": "Contrato de Prestação de Serviços Educacionais 2026.pdf",
+    "paginas": 9,
+    "caracteres_extraidos": 41099,
+    "paginas_ocr": [],
+    "texto_extraido": "textos/Contrato_de_Prestação_de_Serviços_Educacionais_2026.pdf.txt"
+  },
+  {
+    "arquivo": "Edital 207-2026 - Edital de Matriculas 2026.2.pdf",
+    "paginas": 6,
+    "caracteres_extraidos": 13632,
+    "paginas_ocr": [],
+    "texto_extraido": "textos/Edital_207-2026_-_Edital_de_Matriculas_2026.2.pdf.txt"
+  },
+  {
+    "arquivo": "Edital Prorrogação do Prazo de Matrícula 2026.2.pdf",
+    "paginas": 2,
+    "caracteres_extraidos": 2910,
+    "paginas_ocr": [],
+    "texto_extraido": "textos/Edital_Prorrogação_do_Prazo_de_Matrícula_2026.2.pdf.txt"
+  },
+  {
+    "arquivo": "Informativo de Matricula UDF 2026.2.pdf",
+    "paginas": 5,
+    "caracteres_extraidos": 5729,
+    "paginas_ocr": [],
+    "texto_extraido": "textos/Informativo_de_Matricula_UDF_2026.2.pdf.txt"
+  },
+  {
+    "arquivo": "Manual do Aluno 2026.pdf",
+    "paginas": 40,
+    "caracteres_extraidos": 78272,
+    "paginas_ocr": [],
+    "texto_extraido": "textos/Manual_do_Aluno_2026.pdf.txt"
+  },
+  {
+    "arquivo": "Manual do Estagiário.PDF",
+    "paginas": 9,
+    "caracteres_extraidos": 5512,
+    "paginas_ocr": [],
+    "texto_extraido": "textos/Manual_do_Estagiário.PDF.txt"
+  },
+  {
+    "arquivo": "Regimento Geral UDF.pdf",
+    "paginas": 112,
+    "caracteres_extraidos": 276499,
+    "paginas_ocr": [],
+    "texto_extraido": "textos/Regimento_Geral_UDF.pdf.txt"
+  },
+  {
+    "arquivo": "Regulamento Geral Atividades Complementares..pdf",
+    "paginas": 9,
+    "caracteres_extraidos": 22315,
+    "paginas_ocr": [],
+    "texto_extraido": "textos/Regulamento_Geral_Atividades_Complementares..pdf.txt"
+  },
+  {
+    "arquivo": "Regulamento Geral de TCC..pdf",
+    "paginas": 16,
+    "caracteres_extraidos": 20771,
+    "paginas_ocr": [],
+    "texto_extraido": "textos/Regulamento_Geral_de_TCC..pdf.txt"
+  },
+  {
+    "arquivo": "Regulamento de Antecipação de Disciplinas.pdf",
+    "paginas": 2,
+    "caracteres_extraidos": 3407,
+    "paginas_ocr": [],
+    "texto_extraido": "textos/Regulamento_de_Antecipação_de_Disciplinas.pdf.txt"
+  },
+  {
+    "arquivo": "Regulamento de Aproveitamento de Estudos.pdf",
+    "paginas": 9,
+    "caracteres_extraidos": 17043,
+    "paginas_ocr": [],
+    "texto_extraido": "textos/Regulamento_de_Aproveitamento_de_Estudos.pdf.txt"
+  }
+]
