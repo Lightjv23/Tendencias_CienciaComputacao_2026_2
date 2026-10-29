@@ -1,6 +1,6 @@
 Participantes:
 
-Joao Felipe soares Silva RGM - 33455660 
+Joao Felipe Soares Silva RGM - 33455660 
 
 Luis Fernando Figueiredo Frizzo RGM - 35388471
 
